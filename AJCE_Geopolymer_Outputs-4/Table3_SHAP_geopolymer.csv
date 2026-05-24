@@ -1,0 +1,10 @@
+Rank,Display_Name,Feature,Mean_SHAP,Pct
+1,Curing time (h),CuringTime_hr,5.832171,26.52014
+2,Aggregate/binder ratio,Agg_Binder_ratio,3.9259126,17.85197
+3,FA/binder ratio,FA_binder_ratio,3.8188837,17.365288
+4,RCA ratio,RCA_ratio,2.6198711,11.913119
+5,NaOH molarity (M),NaOH_M,2.0756583,9.438466
+6,Testing age (days),Age_days,1.3594476,6.1817017
+7,Total coarse aggregate (kg/m3),TotalCoarse_kgm3,1.0002531,4.5483665
+8,Curing temperature (C),CuringTemp_C,0.86841124,3.9488533
+9,Fine aggregate (kg/m3),FineAgg_kgm3,0.49087164,2.232099

@@ -1,0 +1,10 @@
+Feature,SVR_SHAP,XGB_SHAP,SVR_Rank,XGB_Rank,Rank_diff
+CuringTime_hr,7.444,6.275,1,1,0
+FA_binder_ratio,5.589,4.041,2,2,0
+RCA_ratio,5.463,2.54,3,4,1
+NaOH_M,2.632,2.219,4,5,1
+Age_days,1.508,1.319,5,6,1
+TotalCoarse_kgm3,1.481,1.105,6,7,1
+CuringTemp_C,1.041,0.831,7,8,1
+FineAgg_kgm3,0.953,0.628,8,9,1
+Agg_Binder_ratio,0.848,3.616,9,3,6
